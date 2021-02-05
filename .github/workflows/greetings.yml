@@ -23,7 +23,7 @@ namespace projecte_sensor
         int p=0;
          public int sensor1()
         {
-           // Console.ReadLine();
+          
             if ( p < 20)
             {
                 contro c = new contro();
